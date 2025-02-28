@@ -48,10 +48,10 @@
 
 # 5
 # list
- fruit:list[str] = ["Apple","Banana","Orange"]
- print(type(fruit))
- print(fruit[0])
- print(fruit[-1])
+#  fruit:list[str] = ["Apple","Banana","Orange"]
+#  print(type(fruit))
+#  print(fruit[0])
+#  print(fruit[-1])
 
 # 6
 # tuple

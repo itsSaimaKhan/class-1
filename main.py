@@ -37,8 +37,8 @@
 
 # 3
 # float
-float_num : float = 3.5
-print(type(float_num))
+# float_num : float = 3.5
+# print(type(float_num))
 
 # 4
 # boolen

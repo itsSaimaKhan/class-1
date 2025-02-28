@@ -42,9 +42,9 @@
 
 # 4
 # boolen
-is_true : bool = True
-is_false : bool = False
-print(type(is_true))
+# is_true : bool = True
+# is_false : bool = False
+# print(type(is_true))
 
 # 5
 # list

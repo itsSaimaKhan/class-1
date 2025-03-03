@@ -32,8 +32,8 @@
 
 # 2
 # number
-num :int = 35
-print(type(num))
+# num :int = 35
+# print(type(num))
 
 # 3
 # float

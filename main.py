@@ -62,13 +62,13 @@
 
 # 7
 # dictionary
-# user_data:dict [str,str] = {
-#     "name":"Hamza",
-#     "age":"20",
-# }
-# print(type(user_data))
-# print(user_data)
-# print(user_data["name"])
+user_data:dict [str,str] = {
+    "name":"Hamza",
+    "age":"20",
+}
+print(type(user_data))
+print(user_data)
+print(user_data["name"])
 
     
 

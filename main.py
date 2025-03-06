@@ -55,10 +55,10 @@
 
 # 6
 # tuple
-# tuple_data:tuple = ("Apple","Banana","Orange")
-# print(type(tuple_data))
-# print(tuple_data[0])
-# print(tuple_data[-1])
+tuple_data:tuple = ("Apple","Banana","Orange")
+print(type(tuple_data))
+print(tuple_data[0])
+print(tuple_data[-1])
 
 # 7
 # dictionary

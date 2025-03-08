@@ -20,15 +20,15 @@
 # frozen set (frozenset)
 
 # 1
-string 
-text:str = "Hello World"
-print(text)
+# string 
+# text:str = "Hello World"
+# print(text)
 
-id_Card:str = """Name: Hamza
-Father Name: Muhammad Aslam
-Age : 2o
-"""
-print(id_Card)
+# id_Card:str = """Name: Hamza
+# Father Name: Muhammad Aslam
+# Age : 2o
+# """
+# print(id_Card)
 
 # 2
 # number
